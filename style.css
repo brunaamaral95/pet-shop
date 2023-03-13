@@ -1,0 +1,44 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.imagem-carrosee{
+    object-fit: cover ;
+    height:400px ;
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+
+#historia{
+    font-family: 'Pacifico', cursive; 
+     
+}
+
+#produtos{
+    font-family: 'Pacifico', cursive;
+}
+
+#servicos{
+    font-family: 'Pacifico', cursive;
+}
+
+#contato{
+    font-family: 'Pacifico', cursive;
+   
+}
+
+#depoimentos{
+    font-family: 'Pacifico', cursive;
+    
+}
+
+.card-posicao-imagem{
+    object-fit: cover ;
+    object-position: 0 80%;
+    height:400px ;
+}
+.titulo{
+    text-align: center;
+}
